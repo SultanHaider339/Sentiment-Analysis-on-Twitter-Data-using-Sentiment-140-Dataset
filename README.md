@@ -5,7 +5,7 @@ This project performs **sentiment analysis** on Twitter data using the **Sentime
 ---
 
 ## 📂 Dataset Overview
-
+- **Dataset Link**: https://www.kaggle.com/datasets/kazanova/sentiment140
 - **Dataset**: Sentiment140 (CSV format)
 - **Size**: 1.6 million tweets
 - **Columns Used**:
